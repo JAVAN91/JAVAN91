@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, I'm JAVAN OKELO</h1>
+>Hi 👋, I'm JAVAN OKELO</h1>
 <h3 align="center">A passionate Data Analyst from KENYA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=javan91&label=Profile%20views&color=0e75b6&style=flat" alt="javan91" /> </p>
